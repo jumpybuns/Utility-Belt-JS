@@ -19,9 +19,6 @@ const select = (selector, scope) => {
   return (scope || document).querySelector(selector);
 };
 
-const body = select("body");
-log(body);
-
 // addEventListener wrapper
 // capture is optional
 // !!capture insists the capture is a boolean
@@ -65,7 +62,6 @@ const addClass = (selector, className, scope) => {
   (scope || document).querySelector(selector).classList.add(className);
 };
 
-addClass("div", "container");
 // check for iOS
 // as oppsed to windows or linux
 // MSStream to avoid IE11
