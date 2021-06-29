@@ -6,6 +6,20 @@
     <h3>There are examples of use cases in the component files.</h3>
     <h3>Please try them out and let me know if you have any questions or issues.</h3>
   </div>
+  <ul>
+  <li>1. Console Log</li>
+  <li>2. Proper Case Letters</li>
+  <li>3. Query Selector</li>
+  <li>4. addEventListener Wrapper</li>
+  <li>5. Sanitize Input</li>
+  <li>6. Create an Element</li>
+  <li>7. Delete Content</li>
+  <li>8. Add Class</li>
+  <li>9. Check for iOS </li>
+  <li>10. Get Parameter Name from URL</li>
+ 
+
+</ul>
   <div class="contact-info">
     <h3>Ethan Pierce</h3>
     <h3>ethanpiercepresents@gmail.com</h3>
