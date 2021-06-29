@@ -17,8 +17,6 @@
   <li>8. Add Class</li>
   <li>9. Check for iOS </li>
   <li>10. Get Parameter Name from URL</li>
- 
-
 </ul>
   <div class="contact-info">
     <h3>Ethan Pierce</h3>
